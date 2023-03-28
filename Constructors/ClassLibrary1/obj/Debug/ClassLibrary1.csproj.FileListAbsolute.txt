@@ -1,0 +1,12 @@
+C:\.NETRevision\Constructors\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\.NETRevision\Constructors\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\.NETRevision\Constructors\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\.NETRevision\Constructors\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\.NETRevision\Constructors\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\.NETRevision\Constructors\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+G:\.NETRevision\Constructors\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+G:\.NETRevision\Constructors\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+G:\.NETRevision\Constructors\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+G:\.NETRevision\Constructors\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+G:\.NETRevision\Constructors\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+G:\.NETRevision\Constructors\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

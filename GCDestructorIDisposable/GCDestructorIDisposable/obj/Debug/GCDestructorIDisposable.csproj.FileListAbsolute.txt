@@ -1,0 +1,8 @@
+G:\.NETRevision\GCDestructorIDisposable\GCDestructorIDisposable\bin\Debug\GCDestructorIDisposable.exe.config
+G:\.NETRevision\GCDestructorIDisposable\GCDestructorIDisposable\bin\Debug\GCDestructorIDisposable.exe
+G:\.NETRevision\GCDestructorIDisposable\GCDestructorIDisposable\bin\Debug\GCDestructorIDisposable.pdb
+G:\.NETRevision\GCDestructorIDisposable\GCDestructorIDisposable\obj\Debug\GCDestructorIDisposable.csproj.AssemblyReference.cache
+G:\.NETRevision\GCDestructorIDisposable\GCDestructorIDisposable\obj\Debug\GCDestructorIDisposable.csproj.SuggestedBindingRedirects.cache
+G:\.NETRevision\GCDestructorIDisposable\GCDestructorIDisposable\obj\Debug\GCDestructorIDisposable.csproj.CoreCompileInputs.cache
+G:\.NETRevision\GCDestructorIDisposable\GCDestructorIDisposable\obj\Debug\GCDestructorIDisposable.exe
+G:\.NETRevision\GCDestructorIDisposable\GCDestructorIDisposable\obj\Debug\GCDestructorIDisposable.pdb

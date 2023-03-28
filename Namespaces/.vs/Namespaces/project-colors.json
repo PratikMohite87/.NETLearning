@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8c644b33-7a79-4c02-bdde-cc655de1be4b": {
+      "ProjectGuid": "8c644b33-7a79-4c02-bdde-cc655de1be4b",
+      "DisplayName": "Namespaces",
+      "ColorIndex": 0
+    },
+    "0eae4003-9df5-4075-ac7a-f40edf3b9af3": {
+      "ProjectGuid": "0eae4003-9df5-4075-ac7a-f40edf3b9af3",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

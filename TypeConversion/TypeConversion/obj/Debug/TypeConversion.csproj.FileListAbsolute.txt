@@ -1,0 +1,8 @@
+C:\.NETRevision\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe.config
+C:\.NETRevision\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe
+C:\.NETRevision\TypeConversion\TypeConversion\bin\Debug\TypeConversion.pdb
+C:\.NETRevision\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csproj.AssemblyReference.cache
+C:\.NETRevision\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csproj.SuggestedBindingRedirects.cache
+C:\.NETRevision\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csproj.CoreCompileInputs.cache
+C:\.NETRevision\TypeConversion\TypeConversion\obj\Debug\TypeConversion.exe
+C:\.NETRevision\TypeConversion\TypeConversion\obj\Debug\TypeConversion.pdb

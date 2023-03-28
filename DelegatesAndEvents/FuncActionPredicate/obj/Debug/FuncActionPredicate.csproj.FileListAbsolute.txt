@@ -1,0 +1,8 @@
+C:\.NETRevision\DelegatesAndEvents\FuncActionPredicate\bin\Debug\FuncActionPredicate.exe.config
+C:\.NETRevision\DelegatesAndEvents\FuncActionPredicate\bin\Debug\FuncActionPredicate.exe
+C:\.NETRevision\DelegatesAndEvents\FuncActionPredicate\bin\Debug\FuncActionPredicate.pdb
+C:\.NETRevision\DelegatesAndEvents\FuncActionPredicate\obj\Debug\FuncActionPredicate.csproj.AssemblyReference.cache
+C:\.NETRevision\DelegatesAndEvents\FuncActionPredicate\obj\Debug\FuncActionPredicate.csproj.SuggestedBindingRedirects.cache
+C:\.NETRevision\DelegatesAndEvents\FuncActionPredicate\obj\Debug\FuncActionPredicate.csproj.CoreCompileInputs.cache
+C:\.NETRevision\DelegatesAndEvents\FuncActionPredicate\obj\Debug\FuncActionPredicate.exe
+C:\.NETRevision\DelegatesAndEvents\FuncActionPredicate\obj\Debug\FuncActionPredicate.pdb

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a542ae0f-767c-4d13-8276-8de177ddf629": {
+      "ProjectGuid": "a542ae0f-767c-4d13-8276-8de177ddf629",
+      "DisplayName": "PartialClassAndMethods",
+      "ColorIndex": 0
+    },
+    "c4df4060-aacf-4fed-a15e-96c0b4fda816": {
+      "ProjectGuid": "c4df4060-aacf-4fed-a15e-96c0b4fda816",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 1
+    },
+    "44c8a336-f2dd-4b72-b5f8-ce47eb13f5ee": {
+      "ProjectGuid": "44c8a336-f2dd-4b72-b5f8-ce47eb13f5ee",
+      "DisplayName": "ClassLibrary2",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

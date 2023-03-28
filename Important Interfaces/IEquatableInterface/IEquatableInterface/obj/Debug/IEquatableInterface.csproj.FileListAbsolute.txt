@@ -1,0 +1,8 @@
+C:\.NETRevision\IEquatableInterface\IEquatableInterface\bin\Debug\IEquatableInterface.exe.config
+C:\.NETRevision\IEquatableInterface\IEquatableInterface\bin\Debug\IEquatableInterface.exe
+C:\.NETRevision\IEquatableInterface\IEquatableInterface\bin\Debug\IEquatableInterface.pdb
+C:\.NETRevision\IEquatableInterface\IEquatableInterface\obj\Debug\IEquatableInterface.csproj.AssemblyReference.cache
+C:\.NETRevision\IEquatableInterface\IEquatableInterface\obj\Debug\IEquatableInterface.csproj.SuggestedBindingRedirects.cache
+C:\.NETRevision\IEquatableInterface\IEquatableInterface\obj\Debug\IEquatableInterface.csproj.CoreCompileInputs.cache
+C:\.NETRevision\IEquatableInterface\IEquatableInterface\obj\Debug\IEquatableInterface.exe
+C:\.NETRevision\IEquatableInterface\IEquatableInterface\obj\Debug\IEquatableInterface.pdb

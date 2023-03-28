@@ -1,0 +1,11 @@
+C:\.NETRevision\ObjectRelations\ObjectRelations\bin\Debug\ObjectRelations.exe.config
+C:\.NETRevision\ObjectRelations\ObjectRelations\bin\Debug\ObjectRelations.exe
+C:\.NETRevision\ObjectRelations\ObjectRelations\bin\Debug\ObjectRelations.pdb
+C:\.NETRevision\ObjectRelations\ObjectRelations\bin\Debug\OneToOne.dll
+C:\.NETRevision\ObjectRelations\ObjectRelations\bin\Debug\OneToOne.pdb
+C:\.NETRevision\ObjectRelations\ObjectRelations\obj\Debug\ObjectRelations.csproj.AssemblyReference.cache
+C:\.NETRevision\ObjectRelations\ObjectRelations\obj\Debug\ObjectRelations.csproj.SuggestedBindingRedirects.cache
+C:\.NETRevision\ObjectRelations\ObjectRelations\obj\Debug\ObjectRelations.csproj.CoreCompileInputs.cache
+C:\.NETRevision\ObjectRelations\ObjectRelations\obj\Debug\ObjectRelations.csproj.CopyComplete
+C:\.NETRevision\ObjectRelations\ObjectRelations\obj\Debug\ObjectRelations.exe
+C:\.NETRevision\ObjectRelations\ObjectRelations\obj\Debug\ObjectRelations.pdb

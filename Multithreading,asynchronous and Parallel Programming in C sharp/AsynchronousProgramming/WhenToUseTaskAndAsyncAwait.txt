@@ -1,0 +1,15 @@
+﻿When to use Task ?
+
+	Task.Wait is a blcking call.
+	It blocks the thread until the task is complete, and ignores all other operations while you are waiting 
+		for task completion.
+	By default, the task runs on a thread pool.
+	If ypu are will to block user interaction or ignore the other operations, its better to use Task.
+
+When to use Async-Await ?
+
+	Async Await feature simplifies the asynchronous call.
+	It keeps processing the main thread, which means not blocking the main thread, & allows you to process the
+		other operations in the queue.
+	If you are willing to allow your application to do some other operations until the main task completion, 
+		you can use async await.

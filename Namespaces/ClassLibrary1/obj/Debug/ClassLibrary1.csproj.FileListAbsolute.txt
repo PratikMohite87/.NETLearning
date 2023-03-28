@@ -1,0 +1,6 @@
+C:\.NETRevision\Namespaces\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\.NETRevision\Namespaces\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\.NETRevision\Namespaces\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\.NETRevision\Namespaces\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\.NETRevision\Namespaces\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\.NETRevision\Namespaces\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

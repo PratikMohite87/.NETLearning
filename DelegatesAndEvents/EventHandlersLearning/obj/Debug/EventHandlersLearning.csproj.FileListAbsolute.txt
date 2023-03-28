@@ -1,0 +1,8 @@
+C:\.NETRevision\DelegatesAndEvents\EventHandlersLearning\bin\Debug\EventHandlersLearning.exe.config
+C:\.NETRevision\DelegatesAndEvents\EventHandlersLearning\bin\Debug\EventHandlersLearning.exe
+C:\.NETRevision\DelegatesAndEvents\EventHandlersLearning\bin\Debug\EventHandlersLearning.pdb
+C:\.NETRevision\DelegatesAndEvents\EventHandlersLearning\obj\Debug\EventHandlersLearning.csproj.AssemblyReference.cache
+C:\.NETRevision\DelegatesAndEvents\EventHandlersLearning\obj\Debug\EventHandlersLearning.csproj.SuggestedBindingRedirects.cache
+C:\.NETRevision\DelegatesAndEvents\EventHandlersLearning\obj\Debug\EventHandlersLearning.csproj.CoreCompileInputs.cache
+C:\.NETRevision\DelegatesAndEvents\EventHandlersLearning\obj\Debug\EventHandlersLearning.exe
+C:\.NETRevision\DelegatesAndEvents\EventHandlersLearning\obj\Debug\EventHandlersLearning.pdb

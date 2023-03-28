@@ -1,0 +1,8 @@
+C:\.NETRevision\DelegatesAndEvents\SwitchExpression\bin\Debug\SwitchExpression.exe.config
+C:\.NETRevision\DelegatesAndEvents\SwitchExpression\bin\Debug\SwitchExpression.exe
+C:\.NETRevision\DelegatesAndEvents\SwitchExpression\bin\Debug\SwitchExpression.pdb
+C:\.NETRevision\DelegatesAndEvents\SwitchExpression\obj\Debug\SwitchExpression.csproj.AssemblyReference.cache
+C:\.NETRevision\DelegatesAndEvents\SwitchExpression\obj\Debug\SwitchExpression.csproj.SuggestedBindingRedirects.cache
+C:\.NETRevision\DelegatesAndEvents\SwitchExpression\obj\Debug\SwitchExpression.csproj.CoreCompileInputs.cache
+C:\.NETRevision\DelegatesAndEvents\SwitchExpression\obj\Debug\SwitchExpression.exe
+C:\.NETRevision\DelegatesAndEvents\SwitchExpression\obj\Debug\SwitchExpression.pdb

@@ -1,0 +1,15 @@
+G:\LINQ\Code\LINQLearning\LINQLearning\bin\Debug\net6.0\LINQLearning.exe
+G:\LINQ\Code\LINQLearning\LINQLearning\bin\Debug\net6.0\LINQLearning.deps.json
+G:\LINQ\Code\LINQLearning\LINQLearning\bin\Debug\net6.0\LINQLearning.runtimeconfig.json
+G:\LINQ\Code\LINQLearning\LINQLearning\bin\Debug\net6.0\LINQLearning.dll
+G:\LINQ\Code\LINQLearning\LINQLearning\bin\Debug\net6.0\LINQLearning.pdb
+G:\LINQ\Code\LINQLearning\LINQLearning\obj\Debug\net6.0\LINQLearning.csproj.AssemblyReference.cache
+G:\LINQ\Code\LINQLearning\LINQLearning\obj\Debug\net6.0\LINQLearning.GeneratedMSBuildEditorConfig.editorconfig
+G:\LINQ\Code\LINQLearning\LINQLearning\obj\Debug\net6.0\LINQLearning.AssemblyInfoInputs.cache
+G:\LINQ\Code\LINQLearning\LINQLearning\obj\Debug\net6.0\LINQLearning.AssemblyInfo.cs
+G:\LINQ\Code\LINQLearning\LINQLearning\obj\Debug\net6.0\LINQLearning.csproj.CoreCompileInputs.cache
+G:\LINQ\Code\LINQLearning\LINQLearning\obj\Debug\net6.0\LINQLearning.dll
+G:\LINQ\Code\LINQLearning\LINQLearning\obj\Debug\net6.0\refint\LINQLearning.dll
+G:\LINQ\Code\LINQLearning\LINQLearning\obj\Debug\net6.0\LINQLearning.pdb
+G:\LINQ\Code\LINQLearning\LINQLearning\obj\Debug\net6.0\LINQLearning.genruntimeconfig.cache
+G:\LINQ\Code\LINQLearning\LINQLearning\obj\Debug\net6.0\ref\LINQLearning.dll

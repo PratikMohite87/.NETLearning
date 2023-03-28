@@ -1,0 +1,8 @@
+C:\.NETRevision\ObjectClass\ObjectClass\bin\Debug\ObjectClass.exe.config
+C:\.NETRevision\ObjectClass\ObjectClass\bin\Debug\ObjectClass.exe
+C:\.NETRevision\ObjectClass\ObjectClass\bin\Debug\ObjectClass.pdb
+C:\.NETRevision\ObjectClass\ObjectClass\obj\Debug\ObjectClass.csproj.AssemblyReference.cache
+C:\.NETRevision\ObjectClass\ObjectClass\obj\Debug\ObjectClass.csproj.SuggestedBindingRedirects.cache
+C:\.NETRevision\ObjectClass\ObjectClass\obj\Debug\ObjectClass.csproj.CoreCompileInputs.cache
+C:\.NETRevision\ObjectClass\ObjectClass\obj\Debug\ObjectClass.exe
+C:\.NETRevision\ObjectClass\ObjectClass\obj\Debug\ObjectClass.pdb

@@ -1,0 +1,8 @@
+C:\.NETRevision\CSharpLangBasics\VariablesAndDatatypes\bin\Debug\VariablesAndDatatypes.exe.config
+C:\.NETRevision\CSharpLangBasics\VariablesAndDatatypes\bin\Debug\VariablesAndDatatypes.exe
+C:\.NETRevision\CSharpLangBasics\VariablesAndDatatypes\bin\Debug\VariablesAndDatatypes.pdb
+C:\.NETRevision\CSharpLangBasics\VariablesAndDatatypes\obj\Debug\VariablesAndDatatypes.csproj.AssemblyReference.cache
+C:\.NETRevision\CSharpLangBasics\VariablesAndDatatypes\obj\Debug\VariablesAndDatatypes.csproj.SuggestedBindingRedirects.cache
+C:\.NETRevision\CSharpLangBasics\VariablesAndDatatypes\obj\Debug\VariablesAndDatatypes.csproj.CoreCompileInputs.cache
+C:\.NETRevision\CSharpLangBasics\VariablesAndDatatypes\obj\Debug\VariablesAndDatatypes.exe
+C:\.NETRevision\CSharpLangBasics\VariablesAndDatatypes\obj\Debug\VariablesAndDatatypes.pdb

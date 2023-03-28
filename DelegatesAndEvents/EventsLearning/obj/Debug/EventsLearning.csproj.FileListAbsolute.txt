@@ -1,0 +1,8 @@
+C:\.NETRevision\DelegatesAndEvents\EventsLearning\bin\Debug\EventsLearning.exe.config
+C:\.NETRevision\DelegatesAndEvents\EventsLearning\bin\Debug\EventsLearning.exe
+C:\.NETRevision\DelegatesAndEvents\EventsLearning\bin\Debug\EventsLearning.pdb
+C:\.NETRevision\DelegatesAndEvents\EventsLearning\obj\Debug\EventsLearning.csproj.AssemblyReference.cache
+C:\.NETRevision\DelegatesAndEvents\EventsLearning\obj\Debug\EventsLearning.csproj.SuggestedBindingRedirects.cache
+C:\.NETRevision\DelegatesAndEvents\EventsLearning\obj\Debug\EventsLearning.csproj.CoreCompileInputs.cache
+C:\.NETRevision\DelegatesAndEvents\EventsLearning\obj\Debug\EventsLearning.exe
+C:\.NETRevision\DelegatesAndEvents\EventsLearning\obj\Debug\EventsLearning.pdb

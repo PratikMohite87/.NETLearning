@@ -1,0 +1,6 @@
+C:\.NETRevision\ObjectRelations\OneToOne\bin\Debug\OneToOne.dll
+C:\.NETRevision\ObjectRelations\OneToOne\bin\Debug\OneToOne.pdb
+C:\.NETRevision\ObjectRelations\OneToOne\obj\Debug\OneToOne.csproj.AssemblyReference.cache
+C:\.NETRevision\ObjectRelations\OneToOne\obj\Debug\OneToOne.csproj.CoreCompileInputs.cache
+C:\.NETRevision\ObjectRelations\OneToOne\obj\Debug\OneToOne.dll
+C:\.NETRevision\ObjectRelations\OneToOne\obj\Debug\OneToOne.pdb

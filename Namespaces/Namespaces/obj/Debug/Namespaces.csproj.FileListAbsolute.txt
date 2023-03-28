@@ -1,0 +1,11 @@
+C:\.NETRevision\Namespaces\Namespaces\bin\Debug\Namespaces.exe.config
+C:\.NETRevision\Namespaces\Namespaces\bin\Debug\Namespaces.exe
+C:\.NETRevision\Namespaces\Namespaces\bin\Debug\Namespaces.pdb
+C:\.NETRevision\Namespaces\Namespaces\bin\Debug\ClassLibrary1.dll
+C:\.NETRevision\Namespaces\Namespaces\bin\Debug\ClassLibrary1.pdb
+C:\.NETRevision\Namespaces\Namespaces\obj\Debug\Namespaces.csproj.AssemblyReference.cache
+C:\.NETRevision\Namespaces\Namespaces\obj\Debug\Namespaces.csproj.SuggestedBindingRedirects.cache
+C:\.NETRevision\Namespaces\Namespaces\obj\Debug\Namespaces.csproj.CoreCompileInputs.cache
+C:\.NETRevision\Namespaces\Namespaces\obj\Debug\Namespaces.csproj.CopyComplete
+C:\.NETRevision\Namespaces\Namespaces\obj\Debug\Namespaces.exe
+C:\.NETRevision\Namespaces\Namespaces\obj\Debug\Namespaces.pdb

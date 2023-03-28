@@ -1,0 +1,8 @@
+C:\.NETRevision\IEnumerableAndIEnumerator\IEnumerableAndIEnumerator\bin\Debug\IEnumerableAndIEnumerator.exe.config
+C:\.NETRevision\IEnumerableAndIEnumerator\IEnumerableAndIEnumerator\bin\Debug\IEnumerableAndIEnumerator.exe
+C:\.NETRevision\IEnumerableAndIEnumerator\IEnumerableAndIEnumerator\bin\Debug\IEnumerableAndIEnumerator.pdb
+C:\.NETRevision\IEnumerableAndIEnumerator\IEnumerableAndIEnumerator\obj\Debug\IEnumerableAndIEnumerator.csproj.AssemblyReference.cache
+C:\.NETRevision\IEnumerableAndIEnumerator\IEnumerableAndIEnumerator\obj\Debug\IEnumerableAndIEnumerator.csproj.SuggestedBindingRedirects.cache
+C:\.NETRevision\IEnumerableAndIEnumerator\IEnumerableAndIEnumerator\obj\Debug\IEnumerableAndIEnumerator.csproj.CoreCompileInputs.cache
+C:\.NETRevision\IEnumerableAndIEnumerator\IEnumerableAndIEnumerator\obj\Debug\IEnumerableAndIEnumerator.exe
+C:\.NETRevision\IEnumerableAndIEnumerator\IEnumerableAndIEnumerator\obj\Debug\IEnumerableAndIEnumerator.pdb

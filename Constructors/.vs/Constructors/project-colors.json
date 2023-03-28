@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3017456a-1d1d-4e4f-8034-7a13bbca14c6": {
+      "ProjectGuid": "3017456a-1d1d-4e4f-8034-7a13bbca14c6",
+      "DisplayName": "Constructors",
+      "ColorIndex": 0
+    },
+    "75a738e7-e25b-4d3f-b36d-7d27ac7545d8": {
+      "ProjectGuid": "75a738e7-e25b-4d3f-b36d-7d27ac7545d8",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

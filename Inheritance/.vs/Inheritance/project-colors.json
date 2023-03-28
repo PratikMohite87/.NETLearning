@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "246b8a33-cd7c-4bc9-965c-7413ea4b31c4": {
+      "ProjectGuid": "246b8a33-cd7c-4bc9-965c-7413ea4b31c4",
+      "DisplayName": "Inheritance",
+      "ColorIndex": 0
+    },
+    "bd5b2e7c-3bbb-48dc-a8f2-8932fcfcc4e8": {
+      "ProjectGuid": "bd5b2e7c-3bbb-48dc-a8f2-8932fcfcc4e8",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

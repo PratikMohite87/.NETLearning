@@ -1,0 +1,5 @@
+C:\.NETRevision\PartialClassAndMethods\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\.NETRevision\PartialClassAndMethods\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\.NETRevision\PartialClassAndMethods\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\.NETRevision\PartialClassAndMethods\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\.NETRevision\PartialClassAndMethods\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

@@ -1,0 +1,8 @@
+C:\.NETRevision\DelegatesAndEvents\ExpressionBodiedMembers\bin\Debug\ExpressionBodiedMembers.exe.config
+C:\.NETRevision\DelegatesAndEvents\ExpressionBodiedMembers\bin\Debug\ExpressionBodiedMembers.exe
+C:\.NETRevision\DelegatesAndEvents\ExpressionBodiedMembers\bin\Debug\ExpressionBodiedMembers.pdb
+C:\.NETRevision\DelegatesAndEvents\ExpressionBodiedMembers\obj\Debug\ExpressionBodiedMembers.csproj.AssemblyReference.cache
+C:\.NETRevision\DelegatesAndEvents\ExpressionBodiedMembers\obj\Debug\ExpressionBodiedMembers.csproj.SuggestedBindingRedirects.cache
+C:\.NETRevision\DelegatesAndEvents\ExpressionBodiedMembers\obj\Debug\ExpressionBodiedMembers.csproj.CoreCompileInputs.cache
+C:\.NETRevision\DelegatesAndEvents\ExpressionBodiedMembers\obj\Debug\ExpressionBodiedMembers.exe
+C:\.NETRevision\DelegatesAndEvents\ExpressionBodiedMembers\obj\Debug\ExpressionBodiedMembers.pdb

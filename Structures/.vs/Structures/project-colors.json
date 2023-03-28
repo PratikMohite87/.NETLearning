@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6ad2c777-c2f9-44a3-a86b-9393f9d68149": {
+      "ProjectGuid": "6ad2c777-c2f9-44a3-a86b-9393f9d68149",
+      "DisplayName": "Structures",
+      "ColorIndex": 0
+    },
+    "8c0436f4-c4aa-439e-9e5a-19cd0f7e63fe": {
+      "ProjectGuid": "8c0436f4-c4aa-439e-9e5a-19cd0f7e63fe",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

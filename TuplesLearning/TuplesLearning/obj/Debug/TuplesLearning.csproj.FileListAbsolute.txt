@@ -1,0 +1,8 @@
+C:\.NETRevision\TuplesLearning\TuplesLearning\bin\Debug\TuplesLearning.exe.config
+C:\.NETRevision\TuplesLearning\TuplesLearning\bin\Debug\TuplesLearning.exe
+C:\.NETRevision\TuplesLearning\TuplesLearning\bin\Debug\TuplesLearning.pdb
+C:\.NETRevision\TuplesLearning\TuplesLearning\obj\Debug\TuplesLearning.csproj.AssemblyReference.cache
+C:\.NETRevision\TuplesLearning\TuplesLearning\obj\Debug\TuplesLearning.csproj.SuggestedBindingRedirects.cache
+C:\.NETRevision\TuplesLearning\TuplesLearning\obj\Debug\TuplesLearning.csproj.CoreCompileInputs.cache
+C:\.NETRevision\TuplesLearning\TuplesLearning\obj\Debug\TuplesLearning.exe
+C:\.NETRevision\TuplesLearning\TuplesLearning\obj\Debug\TuplesLearning.pdb

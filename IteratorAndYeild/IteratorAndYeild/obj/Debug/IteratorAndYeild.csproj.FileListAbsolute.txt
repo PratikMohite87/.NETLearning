@@ -1,0 +1,8 @@
+C:\.NETRevision\IteratorAndYeild\IteratorAndYeild\bin\Debug\IteratorAndYeild.exe.config
+C:\.NETRevision\IteratorAndYeild\IteratorAndYeild\bin\Debug\IteratorAndYeild.exe
+C:\.NETRevision\IteratorAndYeild\IteratorAndYeild\bin\Debug\IteratorAndYeild.pdb
+C:\.NETRevision\IteratorAndYeild\IteratorAndYeild\obj\Debug\IteratorAndYeild.csproj.AssemblyReference.cache
+C:\.NETRevision\IteratorAndYeild\IteratorAndYeild\obj\Debug\IteratorAndYeild.csproj.SuggestedBindingRedirects.cache
+C:\.NETRevision\IteratorAndYeild\IteratorAndYeild\obj\Debug\IteratorAndYeild.csproj.CoreCompileInputs.cache
+C:\.NETRevision\IteratorAndYeild\IteratorAndYeild\obj\Debug\IteratorAndYeild.exe
+C:\.NETRevision\IteratorAndYeild\IteratorAndYeild\obj\Debug\IteratorAndYeild.pdb

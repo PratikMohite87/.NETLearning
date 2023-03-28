@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0eb41287-7d6b-476a-abe5-00f38bec591a": {
+      "ProjectGuid": "0eb41287-7d6b-476a-abe5-00f38bec591a",
+      "DisplayName": "CSharpLangBasics",
+      "ColorIndex": 0
+    },
+    "a1647fa5-70bd-4f36-9aae-965747b08c31": {
+      "ProjectGuid": "a1647fa5-70bd-4f36-9aae-965747b08c31",
+      "DisplayName": "VariablesAndDatatypes",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

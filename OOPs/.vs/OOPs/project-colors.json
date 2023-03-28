@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "569f3564-f832-45f0-b704-475774a21f7c": {
+      "ProjectGuid": "569f3564-f832-45f0-b704-475774a21f7c",
+      "DisplayName": "ClassAndObjects",
+      "ColorIndex": 0
+    },
+    "3db9ee37-005b-488b-ba63-a49b610a52b0": {
+      "ProjectGuid": "3db9ee37-005b-488b-ba63-a49b610a52b0",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 1
+    },
+    "290c14e6-4d0e-49b4-8d4a-dd51fffcb445": {
+      "ProjectGuid": "290c14e6-4d0e-49b4-8d4a-dd51fffcb445",
+      "DisplayName": "ClassLibrary2",
+      "ColorIndex": 2
+    },
+    "0230f5b9-2e28-43f8-8cd6-ac2ec7b424e7": {
+      "ProjectGuid": "0230f5b9-2e28-43f8-8cd6-ac2ec7b424e7",
+      "DisplayName": "Fields",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

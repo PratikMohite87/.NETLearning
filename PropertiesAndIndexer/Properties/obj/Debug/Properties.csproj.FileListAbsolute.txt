@@ -1,0 +1,8 @@
+C:\.NETRevision\PropertiesAndIndexer\Properties\bin\Debug\Properties.exe.config
+C:\.NETRevision\PropertiesAndIndexer\Properties\bin\Debug\Properties.exe
+C:\.NETRevision\PropertiesAndIndexer\Properties\bin\Debug\Properties.pdb
+C:\.NETRevision\PropertiesAndIndexer\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+C:\.NETRevision\PropertiesAndIndexer\Properties\obj\Debug\Properties.csproj.SuggestedBindingRedirects.cache
+C:\.NETRevision\PropertiesAndIndexer\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+C:\.NETRevision\PropertiesAndIndexer\Properties\obj\Debug\Properties.exe
+C:\.NETRevision\PropertiesAndIndexer\Properties\obj\Debug\Properties.pdb

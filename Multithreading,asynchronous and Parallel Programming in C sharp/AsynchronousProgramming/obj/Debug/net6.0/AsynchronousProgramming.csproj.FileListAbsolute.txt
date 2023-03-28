@@ -1,0 +1,15 @@
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\AsynchronousProgramming\bin\Debug\net6.0\AsynchronousProgramming.exe
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\AsynchronousProgramming\bin\Debug\net6.0\AsynchronousProgramming.deps.json
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\AsynchronousProgramming\bin\Debug\net6.0\AsynchronousProgramming.runtimeconfig.json
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\AsynchronousProgramming\bin\Debug\net6.0\AsynchronousProgramming.dll
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\AsynchronousProgramming\bin\Debug\net6.0\AsynchronousProgramming.pdb
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\AsynchronousProgramming\obj\Debug\net6.0\AsynchronousProgramming.csproj.AssemblyReference.cache
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\AsynchronousProgramming\obj\Debug\net6.0\AsynchronousProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\AsynchronousProgramming\obj\Debug\net6.0\AsynchronousProgramming.AssemblyInfoInputs.cache
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\AsynchronousProgramming\obj\Debug\net6.0\AsynchronousProgramming.AssemblyInfo.cs
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\AsynchronousProgramming\obj\Debug\net6.0\AsynchronousProgramming.csproj.CoreCompileInputs.cache
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\AsynchronousProgramming\obj\Debug\net6.0\AsynchronousProgramming.dll
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\AsynchronousProgramming\obj\Debug\net6.0\refint\AsynchronousProgramming.dll
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\AsynchronousProgramming\obj\Debug\net6.0\AsynchronousProgramming.pdb
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\AsynchronousProgramming\obj\Debug\net6.0\AsynchronousProgramming.genruntimeconfig.cache
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\AsynchronousProgramming\obj\Debug\net6.0\ref\AsynchronousProgramming.dll

@@ -1,0 +1,8 @@
+C:\.NETRevision\DelegatesAndEvents\AnonymousMethods\bin\Debug\AnonymousMethods.exe.config
+C:\.NETRevision\DelegatesAndEvents\AnonymousMethods\bin\Debug\AnonymousMethods.exe
+C:\.NETRevision\DelegatesAndEvents\AnonymousMethods\bin\Debug\AnonymousMethods.pdb
+C:\.NETRevision\DelegatesAndEvents\AnonymousMethods\obj\Debug\AnonymousMethods.csproj.AssemblyReference.cache
+C:\.NETRevision\DelegatesAndEvents\AnonymousMethods\obj\Debug\AnonymousMethods.csproj.SuggestedBindingRedirects.cache
+C:\.NETRevision\DelegatesAndEvents\AnonymousMethods\obj\Debug\AnonymousMethods.csproj.CoreCompileInputs.cache
+C:\.NETRevision\DelegatesAndEvents\AnonymousMethods\obj\Debug\AnonymousMethods.exe
+C:\.NETRevision\DelegatesAndEvents\AnonymousMethods\obj\Debug\AnonymousMethods.pdb

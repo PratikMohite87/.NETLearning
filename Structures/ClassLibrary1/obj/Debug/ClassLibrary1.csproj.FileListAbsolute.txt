@@ -1,0 +1,6 @@
+C:\.NETRevision\Structures\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\.NETRevision\Structures\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\.NETRevision\Structures\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\.NETRevision\Structures\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\.NETRevision\Structures\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\.NETRevision\Structures\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

@@ -1,0 +1,11 @@
+C:\.NETRevision\Structures\Structures\bin\Debug\Structures.exe.config
+C:\.NETRevision\Structures\Structures\bin\Debug\Structures.exe
+C:\.NETRevision\Structures\Structures\bin\Debug\Structures.pdb
+C:\.NETRevision\Structures\Structures\bin\Debug\ClassLibrary1.dll
+C:\.NETRevision\Structures\Structures\bin\Debug\ClassLibrary1.pdb
+C:\.NETRevision\Structures\Structures\obj\Debug\Structures.csproj.AssemblyReference.cache
+C:\.NETRevision\Structures\Structures\obj\Debug\Structures.csproj.SuggestedBindingRedirects.cache
+C:\.NETRevision\Structures\Structures\obj\Debug\Structures.csproj.CoreCompileInputs.cache
+C:\.NETRevision\Structures\Structures\obj\Debug\Structures.csproj.CopyComplete
+C:\.NETRevision\Structures\Structures\obj\Debug\Structures.exe
+C:\.NETRevision\Structures\Structures\obj\Debug\Structures.pdb

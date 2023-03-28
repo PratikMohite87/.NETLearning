@@ -1,0 +1,8 @@
+C:\.NETRevision\Methods\BasicsOfMethods\bin\Debug\BasicsOfMethods.exe.config
+C:\.NETRevision\Methods\BasicsOfMethods\bin\Debug\BasicsOfMethods.exe
+C:\.NETRevision\Methods\BasicsOfMethods\bin\Debug\BasicsOfMethods.pdb
+C:\.NETRevision\Methods\BasicsOfMethods\obj\Debug\BasicsOfMethods.csproj.AssemblyReference.cache
+C:\.NETRevision\Methods\BasicsOfMethods\obj\Debug\BasicsOfMethods.csproj.SuggestedBindingRedirects.cache
+C:\.NETRevision\Methods\BasicsOfMethods\obj\Debug\BasicsOfMethods.csproj.CoreCompileInputs.cache
+C:\.NETRevision\Methods\BasicsOfMethods\obj\Debug\BasicsOfMethods.exe
+C:\.NETRevision\Methods\BasicsOfMethods\obj\Debug\BasicsOfMethods.pdb

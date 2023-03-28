@@ -1,0 +1,8 @@
+C:\.NETRevision\IComparableInterface\IComparableInterface\bin\Debug\IComparableInterface.exe.config
+C:\.NETRevision\IComparableInterface\IComparableInterface\bin\Debug\IComparableInterface.exe
+C:\.NETRevision\IComparableInterface\IComparableInterface\bin\Debug\IComparableInterface.pdb
+C:\.NETRevision\IComparableInterface\IComparableInterface\obj\Debug\IComparableInterface.csproj.AssemblyReference.cache
+C:\.NETRevision\IComparableInterface\IComparableInterface\obj\Debug\IComparableInterface.csproj.SuggestedBindingRedirects.cache
+C:\.NETRevision\IComparableInterface\IComparableInterface\obj\Debug\IComparableInterface.csproj.CoreCompileInputs.cache
+C:\.NETRevision\IComparableInterface\IComparableInterface\obj\Debug\IComparableInterface.exe
+C:\.NETRevision\IComparableInterface\IComparableInterface\obj\Debug\IComparableInterface.pdb

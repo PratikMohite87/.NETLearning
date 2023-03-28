@@ -1,0 +1,15 @@
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\bin\Debug\net6.0\Multithreading.exe
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\bin\Debug\net6.0\Multithreading.deps.json
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\bin\Debug\net6.0\Multithreading.runtimeconfig.json
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\bin\Debug\net6.0\Multithreading.dll
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\bin\Debug\net6.0\Multithreading.pdb
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\obj\Debug\net6.0\Multithreading.csproj.AssemblyReference.cache
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\obj\Debug\net6.0\Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\obj\Debug\net6.0\Multithreading.AssemblyInfoInputs.cache
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\obj\Debug\net6.0\Multithreading.AssemblyInfo.cs
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\obj\Debug\net6.0\Multithreading.csproj.CoreCompileInputs.cache
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\obj\Debug\net6.0\Multithreading.dll
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\obj\Debug\net6.0\refint\Multithreading.dll
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\obj\Debug\net6.0\Multithreading.pdb
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\obj\Debug\net6.0\Multithreading.genruntimeconfig.cache
+C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\obj\Debug\net6.0\ref\Multithreading.dll

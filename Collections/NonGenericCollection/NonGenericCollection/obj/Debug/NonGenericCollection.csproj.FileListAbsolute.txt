@@ -1,0 +1,8 @@
+C:\.NETRevision\NonGenericCollection\NonGenericCollection\bin\Debug\NonGenericCollection.exe.config
+C:\.NETRevision\NonGenericCollection\NonGenericCollection\bin\Debug\NonGenericCollection.exe
+C:\.NETRevision\NonGenericCollection\NonGenericCollection\bin\Debug\NonGenericCollection.pdb
+C:\.NETRevision\NonGenericCollection\NonGenericCollection\obj\Debug\NonGenericCollection.csproj.AssemblyReference.cache
+C:\.NETRevision\NonGenericCollection\NonGenericCollection\obj\Debug\NonGenericCollection.csproj.SuggestedBindingRedirects.cache
+C:\.NETRevision\NonGenericCollection\NonGenericCollection\obj\Debug\NonGenericCollection.csproj.CoreCompileInputs.cache
+C:\.NETRevision\NonGenericCollection\NonGenericCollection\obj\Debug\NonGenericCollection.exe
+C:\.NETRevision\NonGenericCollection\NonGenericCollection\obj\Debug\NonGenericCollection.pdb

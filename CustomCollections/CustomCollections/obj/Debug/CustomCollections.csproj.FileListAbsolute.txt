@@ -1,0 +1,8 @@
+C:\.NETRevision\CustomCollections\CustomCollections\bin\Debug\CustomCollections.exe.config
+C:\.NETRevision\CustomCollections\CustomCollections\bin\Debug\CustomCollections.exe
+C:\.NETRevision\CustomCollections\CustomCollections\bin\Debug\CustomCollections.pdb
+C:\.NETRevision\CustomCollections\CustomCollections\obj\Debug\CustomCollections.csproj.AssemblyReference.cache
+C:\.NETRevision\CustomCollections\CustomCollections\obj\Debug\CustomCollections.csproj.SuggestedBindingRedirects.cache
+C:\.NETRevision\CustomCollections\CustomCollections\obj\Debug\CustomCollections.csproj.CoreCompileInputs.cache
+C:\.NETRevision\CustomCollections\CustomCollections\obj\Debug\CustomCollections.exe
+C:\.NETRevision\CustomCollections\CustomCollections\obj\Debug\CustomCollections.pdb

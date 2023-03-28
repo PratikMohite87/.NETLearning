@@ -1,0 +1,8 @@
+C:\.NETRevision\CSharpLangBasics\CSharpLangBasics\bin\Debug\CSharpLangBasics.exe.config
+C:\.NETRevision\CSharpLangBasics\CSharpLangBasics\bin\Debug\CSharpLangBasics.exe
+C:\.NETRevision\CSharpLangBasics\CSharpLangBasics\bin\Debug\CSharpLangBasics.pdb
+C:\.NETRevision\CSharpLangBasics\CSharpLangBasics\obj\Debug\CSharpLangBasics.csproj.AssemblyReference.cache
+C:\.NETRevision\CSharpLangBasics\CSharpLangBasics\obj\Debug\CSharpLangBasics.csproj.SuggestedBindingRedirects.cache
+C:\.NETRevision\CSharpLangBasics\CSharpLangBasics\obj\Debug\CSharpLangBasics.csproj.CoreCompileInputs.cache
+C:\.NETRevision\CSharpLangBasics\CSharpLangBasics\obj\Debug\CSharpLangBasics.exe
+C:\.NETRevision\CSharpLangBasics\CSharpLangBasics\obj\Debug\CSharpLangBasics.pdb
