@@ -49,6 +49,8 @@ namespace AbstractClasses
             // It’s compulsory to create a subclass or child class from the abstract class in order to provide the
             //      implementation of its abstract methods.
 
+            // We cannot create instance of an abstract class but we can create reference of it.
+
             #endregion
 
             #region Abstract Methods in C#
