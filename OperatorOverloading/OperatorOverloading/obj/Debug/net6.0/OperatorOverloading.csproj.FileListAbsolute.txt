@@ -1,0 +1,15 @@
+G:\.NET Learnings\OperatorOverloading\OperatorOverloading\bin\Debug\net6.0\OperatorOverloading.exe
+G:\.NET Learnings\OperatorOverloading\OperatorOverloading\bin\Debug\net6.0\OperatorOverloading.deps.json
+G:\.NET Learnings\OperatorOverloading\OperatorOverloading\bin\Debug\net6.0\OperatorOverloading.runtimeconfig.json
+G:\.NET Learnings\OperatorOverloading\OperatorOverloading\bin\Debug\net6.0\OperatorOverloading.dll
+G:\.NET Learnings\OperatorOverloading\OperatorOverloading\bin\Debug\net6.0\OperatorOverloading.pdb
+G:\.NET Learnings\OperatorOverloading\OperatorOverloading\obj\Debug\net6.0\OperatorOverloading.csproj.AssemblyReference.cache
+G:\.NET Learnings\OperatorOverloading\OperatorOverloading\obj\Debug\net6.0\OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+G:\.NET Learnings\OperatorOverloading\OperatorOverloading\obj\Debug\net6.0\OperatorOverloading.AssemblyInfoInputs.cache
+G:\.NET Learnings\OperatorOverloading\OperatorOverloading\obj\Debug\net6.0\OperatorOverloading.AssemblyInfo.cs
+G:\.NET Learnings\OperatorOverloading\OperatorOverloading\obj\Debug\net6.0\OperatorOverloading.csproj.CoreCompileInputs.cache
+G:\.NET Learnings\OperatorOverloading\OperatorOverloading\obj\Debug\net6.0\OperatorOverloading.dll
+G:\.NET Learnings\OperatorOverloading\OperatorOverloading\obj\Debug\net6.0\refint\OperatorOverloading.dll
+G:\.NET Learnings\OperatorOverloading\OperatorOverloading\obj\Debug\net6.0\OperatorOverloading.pdb
+G:\.NET Learnings\OperatorOverloading\OperatorOverloading\obj\Debug\net6.0\OperatorOverloading.genruntimeconfig.cache
+G:\.NET Learnings\OperatorOverloading\OperatorOverloading\obj\Debug\net6.0\ref\OperatorOverloading.dll

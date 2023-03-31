@@ -70,6 +70,8 @@ namespace Inheritance
             //              // code
             //          }
 
+            Console.WriteLine("Start Method Hiding");
+
             Employee employee3 = new Employee();
             employee3.GetHealthInssuranceAmount();
 
@@ -78,6 +80,8 @@ namespace Inheritance
 
             Employee employee4 = new Manager();
             employee4.GetHealthInssuranceAmount();
+
+            Console.WriteLine("End Method Hiding");
 
 
             // Method overiding : it is concept which is used to EXTEND the parent class method, by creating another
@@ -118,6 +122,8 @@ namespace Inheritance
 
 
             // Sealed Methods : it must be "override methods" which can`t be overriden in child class.
+
+            Console.ReadKey();
         }
     }
 }
