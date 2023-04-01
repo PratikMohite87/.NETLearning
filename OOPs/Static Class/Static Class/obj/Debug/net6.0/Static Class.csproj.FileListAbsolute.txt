@@ -1,0 +1,15 @@
+G:\.NET Learnings\OOPs\Static Class\Static Class\bin\Debug\net6.0\Static Class.exe
+G:\.NET Learnings\OOPs\Static Class\Static Class\bin\Debug\net6.0\Static Class.deps.json
+G:\.NET Learnings\OOPs\Static Class\Static Class\bin\Debug\net6.0\Static Class.runtimeconfig.json
+G:\.NET Learnings\OOPs\Static Class\Static Class\bin\Debug\net6.0\Static Class.dll
+G:\.NET Learnings\OOPs\Static Class\Static Class\bin\Debug\net6.0\Static Class.pdb
+G:\.NET Learnings\OOPs\Static Class\Static Class\obj\Debug\net6.0\Static Class.csproj.AssemblyReference.cache
+G:\.NET Learnings\OOPs\Static Class\Static Class\obj\Debug\net6.0\Static Class.GeneratedMSBuildEditorConfig.editorconfig
+G:\.NET Learnings\OOPs\Static Class\Static Class\obj\Debug\net6.0\Static Class.AssemblyInfoInputs.cache
+G:\.NET Learnings\OOPs\Static Class\Static Class\obj\Debug\net6.0\Static Class.AssemblyInfo.cs
+G:\.NET Learnings\OOPs\Static Class\Static Class\obj\Debug\net6.0\Static Class.csproj.CoreCompileInputs.cache
+G:\.NET Learnings\OOPs\Static Class\Static Class\obj\Debug\net6.0\Static Class.dll
+G:\.NET Learnings\OOPs\Static Class\Static Class\obj\Debug\net6.0\refint\Static Class.dll
+G:\.NET Learnings\OOPs\Static Class\Static Class\obj\Debug\net6.0\Static Class.pdb
+G:\.NET Learnings\OOPs\Static Class\Static Class\obj\Debug\net6.0\Static Class.genruntimeconfig.cache
+G:\.NET Learnings\OOPs\Static Class\Static Class\obj\Debug\net6.0\ref\Static Class.dll

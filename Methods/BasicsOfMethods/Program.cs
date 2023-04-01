@@ -23,21 +23,8 @@ namespace BasicsOfMethods
             //      partial,
             //      sealed
 
-            // Encapsulation : it is a concept that binds data & operations that manipulates that data,
-            //                 this keeps both safe from outside interference and misuse.
-            //                 i.e class which is a combination of fields and methods.
-            //                 this also includes accessing fields through setter and getter methods.
-
-
-            // Abstraction : it is a concept of providing only limited data or operations to the code exist outside of class.
-            //               it is a concept of hiding some "private data / operations" & providing some "public data / operations" to the code outside of class.
-            //               i.e combination of private fields and public method and accessing private fields through public methods is the implementation of abstraction.
-
-            // "this" keyword : refers to "current object"
-
             // static methods : used to operate with static fields.
-            //                  Instance methods can access both static & instance fields/methods, whereas static method can ONLY ACCESS STATIC FIELDS/METHODS.
-            //                  
+            //                  Instance methods can access both static & instance fields/methods, whereas static method can ONLY ACCESS STATIC FIELDS/METHODS.     
 
             // Default argument
 

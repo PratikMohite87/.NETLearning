@@ -1,0 +1,15 @@
+G:\.NET Learnings\Enumeration\Enumeration\bin\Debug\net6.0\Enumeration.exe
+G:\.NET Learnings\Enumeration\Enumeration\bin\Debug\net6.0\Enumeration.deps.json
+G:\.NET Learnings\Enumeration\Enumeration\bin\Debug\net6.0\Enumeration.runtimeconfig.json
+G:\.NET Learnings\Enumeration\Enumeration\bin\Debug\net6.0\Enumeration.dll
+G:\.NET Learnings\Enumeration\Enumeration\bin\Debug\net6.0\Enumeration.pdb
+G:\.NET Learnings\Enumeration\Enumeration\obj\Debug\net6.0\Enumeration.csproj.AssemblyReference.cache
+G:\.NET Learnings\Enumeration\Enumeration\obj\Debug\net6.0\Enumeration.GeneratedMSBuildEditorConfig.editorconfig
+G:\.NET Learnings\Enumeration\Enumeration\obj\Debug\net6.0\Enumeration.AssemblyInfoInputs.cache
+G:\.NET Learnings\Enumeration\Enumeration\obj\Debug\net6.0\Enumeration.AssemblyInfo.cs
+G:\.NET Learnings\Enumeration\Enumeration\obj\Debug\net6.0\Enumeration.csproj.CoreCompileInputs.cache
+G:\.NET Learnings\Enumeration\Enumeration\obj\Debug\net6.0\Enumeration.dll
+G:\.NET Learnings\Enumeration\Enumeration\obj\Debug\net6.0\refint\Enumeration.dll
+G:\.NET Learnings\Enumeration\Enumeration\obj\Debug\net6.0\Enumeration.pdb
+G:\.NET Learnings\Enumeration\Enumeration\obj\Debug\net6.0\Enumeration.genruntimeconfig.cache
+G:\.NET Learnings\Enumeration\Enumeration\obj\Debug\net6.0\ref\Enumeration.dll

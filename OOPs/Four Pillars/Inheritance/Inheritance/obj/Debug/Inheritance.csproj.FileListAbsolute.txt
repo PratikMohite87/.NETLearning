@@ -1,0 +1,22 @@
+C:\.NETRevision\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\.NETRevision\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\.NETRevision\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\.NETRevision\Inheritance\Inheritance\bin\Debug\ClassLibrary1.dll
+C:\.NETRevision\Inheritance\Inheritance\bin\Debug\ClassLibrary1.pdb
+C:\.NETRevision\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\.NETRevision\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\.NETRevision\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\.NETRevision\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CopyComplete
+C:\.NETRevision\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\.NETRevision\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
+G:\.NET Learnings\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+G:\.NET Learnings\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+G:\.NET Learnings\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+G:\.NET Learnings\Inheritance\Inheritance\bin\Debug\ClassLibrary1.dll
+G:\.NET Learnings\Inheritance\Inheritance\bin\Debug\ClassLibrary1.pdb
+G:\.NET Learnings\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+G:\.NET Learnings\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+G:\.NET Learnings\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+G:\.NET Learnings\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CopyComplete
+G:\.NET Learnings\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+G:\.NET Learnings\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

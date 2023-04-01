@@ -1,8 +1,0 @@
-C:\.NETRevision\OOPs\Fields\bin\Debug\Fields.exe.config
-C:\.NETRevision\OOPs\Fields\bin\Debug\Fields.exe
-C:\.NETRevision\OOPs\Fields\bin\Debug\Fields.pdb
-C:\.NETRevision\OOPs\Fields\obj\Debug\Fields.csproj.AssemblyReference.cache
-C:\.NETRevision\OOPs\Fields\obj\Debug\Fields.csproj.SuggestedBindingRedirects.cache
-C:\.NETRevision\OOPs\Fields\obj\Debug\Fields.csproj.CoreCompileInputs.cache
-C:\.NETRevision\OOPs\Fields\obj\Debug\Fields.exe
-C:\.NETRevision\OOPs\Fields\obj\Debug\Fields.pdb

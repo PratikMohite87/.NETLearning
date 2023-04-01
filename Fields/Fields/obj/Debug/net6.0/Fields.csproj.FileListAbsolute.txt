@@ -1,0 +1,15 @@
+G:\.NET Learnings\Fields\Fields\bin\Debug\net6.0\Fields.exe
+G:\.NET Learnings\Fields\Fields\bin\Debug\net6.0\Fields.deps.json
+G:\.NET Learnings\Fields\Fields\bin\Debug\net6.0\Fields.runtimeconfig.json
+G:\.NET Learnings\Fields\Fields\bin\Debug\net6.0\Fields.dll
+G:\.NET Learnings\Fields\Fields\bin\Debug\net6.0\Fields.pdb
+G:\.NET Learnings\Fields\Fields\obj\Debug\net6.0\Fields.csproj.AssemblyReference.cache
+G:\.NET Learnings\Fields\Fields\obj\Debug\net6.0\Fields.GeneratedMSBuildEditorConfig.editorconfig
+G:\.NET Learnings\Fields\Fields\obj\Debug\net6.0\Fields.AssemblyInfoInputs.cache
+G:\.NET Learnings\Fields\Fields\obj\Debug\net6.0\Fields.AssemblyInfo.cs
+G:\.NET Learnings\Fields\Fields\obj\Debug\net6.0\Fields.csproj.CoreCompileInputs.cache
+G:\.NET Learnings\Fields\Fields\obj\Debug\net6.0\Fields.dll
+G:\.NET Learnings\Fields\Fields\obj\Debug\net6.0\refint\Fields.dll
+G:\.NET Learnings\Fields\Fields\obj\Debug\net6.0\Fields.pdb
+G:\.NET Learnings\Fields\Fields\obj\Debug\net6.0\Fields.genruntimeconfig.cache
+G:\.NET Learnings\Fields\Fields\obj\Debug\net6.0\ref\Fields.dll

@@ -1,0 +1,24 @@
+C:\.NETRevision\PartialClassAndMethods\PartialClassAndMethods\bin\Debug\PartialClassAndMethods.exe.config
+C:\.NETRevision\PartialClassAndMethods\PartialClassAndMethods\bin\Debug\PartialClassAndMethods.exe
+C:\.NETRevision\PartialClassAndMethods\PartialClassAndMethods\bin\Debug\PartialClassAndMethods.pdb
+C:\.NETRevision\PartialClassAndMethods\PartialClassAndMethods\bin\Debug\ClassLibrary1.dll
+C:\.NETRevision\PartialClassAndMethods\PartialClassAndMethods\bin\Debug\ClassLibrary1.pdb
+C:\.NETRevision\PartialClassAndMethods\PartialClassAndMethods\obj\Debug\PartialClassAndMethods.csproj.AssemblyReference.cache
+C:\.NETRevision\PartialClassAndMethods\PartialClassAndMethods\obj\Debug\PartialClassAndMethods.csproj.SuggestedBindingRedirects.cache
+C:\.NETRevision\PartialClassAndMethods\PartialClassAndMethods\obj\Debug\PartialClassAndMethods.csproj.CoreCompileInputs.cache
+C:\.NETRevision\PartialClassAndMethods\PartialClassAndMethods\obj\Debug\PartialClassAndMethods.csproj.CopyComplete
+C:\.NETRevision\PartialClassAndMethods\PartialClassAndMethods\obj\Debug\PartialClassAndMethods.exe
+C:\.NETRevision\PartialClassAndMethods\PartialClassAndMethods\obj\Debug\PartialClassAndMethods.pdb
+C:\.NETRevision\PartialClassAndMethods\PartialClassAndMethods\bin\Debug\ClassLibrary2.dll
+C:\.NETRevision\PartialClassAndMethods\PartialClassAndMethods\bin\Debug\ClassLibrary2.pdb
+G:\.NET Learnings\OOPs\PartialClassAndMethods\PartialClassAndMethods\bin\Debug\PartialClassAndMethods.exe.config
+G:\.NET Learnings\OOPs\PartialClassAndMethods\PartialClassAndMethods\bin\Debug\PartialClassAndMethods.exe
+G:\.NET Learnings\OOPs\PartialClassAndMethods\PartialClassAndMethods\bin\Debug\PartialClassAndMethods.pdb
+G:\.NET Learnings\OOPs\PartialClassAndMethods\PartialClassAndMethods\bin\Debug\ClassLibrary1.dll
+G:\.NET Learnings\OOPs\PartialClassAndMethods\PartialClassAndMethods\bin\Debug\ClassLibrary1.pdb
+G:\.NET Learnings\OOPs\PartialClassAndMethods\PartialClassAndMethods\obj\Debug\PartialClassAndMethods.csproj.AssemblyReference.cache
+G:\.NET Learnings\OOPs\PartialClassAndMethods\PartialClassAndMethods\obj\Debug\PartialClassAndMethods.csproj.SuggestedBindingRedirects.cache
+G:\.NET Learnings\OOPs\PartialClassAndMethods\PartialClassAndMethods\obj\Debug\PartialClassAndMethods.csproj.CoreCompileInputs.cache
+G:\.NET Learnings\OOPs\PartialClassAndMethods\PartialClassAndMethods\obj\Debug\PartialClassAndMethods.csproj.CopyComplete
+G:\.NET Learnings\OOPs\PartialClassAndMethods\PartialClassAndMethods\obj\Debug\PartialClassAndMethods.exe
+G:\.NET Learnings\OOPs\PartialClassAndMethods\PartialClassAndMethods\obj\Debug\PartialClassAndMethods.pdb
