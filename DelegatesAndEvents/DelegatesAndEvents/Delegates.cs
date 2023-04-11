@@ -35,6 +35,8 @@ namespace DelegatesAndEvents
             myDelegateTypes += new MyDelegateTypes(sample.Multiply);
 
             Console.WriteLine(myDelegateTypes.Invoke(4, 5));
+
+            Console.ReadKey();
         }
     }
 

@@ -6,3 +6,11 @@ C:\.NETRevision\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\Delegates.csproj
 C:\.NETRevision\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
 C:\.NETRevision\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.exe
 C:\.NETRevision\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.pdb
+G:\.NET Learnings\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe.config
+G:\.NET Learnings\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe
+G:\.NET Learnings\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.pdb
+G:\.NET Learnings\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\Delegates.csproj.AssemblyReference.cache
+G:\.NET Learnings\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\Delegates.csproj.SuggestedBindingRedirects.cache
+G:\.NET Learnings\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+G:\.NET Learnings\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.exe
+G:\.NET Learnings\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.pdb
