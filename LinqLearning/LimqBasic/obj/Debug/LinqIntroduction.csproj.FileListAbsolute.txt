@@ -1,0 +1,8 @@
+G:\.NET Learnings\LinqLearning\LimqBasic\bin\Debug\LimqBasic.exe.config
+G:\.NET Learnings\LinqLearning\LimqBasic\bin\Debug\LimqBasic.exe
+G:\.NET Learnings\LinqLearning\LimqBasic\bin\Debug\LimqBasic.pdb
+G:\.NET Learnings\LinqLearning\LimqBasic\obj\Debug\LinqIntroduction.csproj.AssemblyReference.cache
+G:\.NET Learnings\LinqLearning\LimqBasic\obj\Debug\LinqIntroduction.csproj.SuggestedBindingRedirects.cache
+G:\.NET Learnings\LinqLearning\LimqBasic\obj\Debug\LinqIntroduction.csproj.CoreCompileInputs.cache
+G:\.NET Learnings\LinqLearning\LimqBasic\obj\Debug\LimqBasic.exe
+G:\.NET Learnings\LinqLearning\LimqBasic\obj\Debug\LimqBasic.pdb

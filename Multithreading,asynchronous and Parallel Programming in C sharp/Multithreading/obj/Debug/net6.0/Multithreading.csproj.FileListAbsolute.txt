@@ -13,3 +13,18 @@ C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\
 C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\obj\Debug\net6.0\Multithreading.pdb
 C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\obj\Debug\net6.0\Multithreading.genruntimeconfig.cache
 C:\.NETRevision\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\obj\Debug\net6.0\ref\Multithreading.dll
+G:\.NET Learnings\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\obj\Debug\net6.0\Multithreading.csproj.AssemblyReference.cache
+G:\.NET Learnings\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\obj\Debug\net6.0\Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+G:\.NET Learnings\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\obj\Debug\net6.0\Multithreading.AssemblyInfoInputs.cache
+G:\.NET Learnings\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\obj\Debug\net6.0\Multithreading.AssemblyInfo.cs
+G:\.NET Learnings\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\obj\Debug\net6.0\Multithreading.csproj.CoreCompileInputs.cache
+G:\.NET Learnings\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\obj\Debug\net6.0\Multithreading.dll
+G:\.NET Learnings\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\obj\Debug\net6.0\refint\Multithreading.dll
+G:\.NET Learnings\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\obj\Debug\net6.0\Multithreading.pdb
+G:\.NET Learnings\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\bin\Debug\net6.0\Multithreading.exe
+G:\.NET Learnings\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\bin\Debug\net6.0\Multithreading.deps.json
+G:\.NET Learnings\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\bin\Debug\net6.0\Multithreading.runtimeconfig.json
+G:\.NET Learnings\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\bin\Debug\net6.0\Multithreading.dll
+G:\.NET Learnings\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\bin\Debug\net6.0\Multithreading.pdb
+G:\.NET Learnings\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\obj\Debug\net6.0\Multithreading.genruntimeconfig.cache
+G:\.NET Learnings\Multithreading,asynchronous and Parallel Programming in C sharp\Multithreading\obj\Debug\net6.0\ref\Multithreading.dll

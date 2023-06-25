@@ -45,7 +45,7 @@ namespace Inheritance
 
             // Calling Parent class Constructor from Child class:
             //      It is optional to call parent class "PARAMETER-LESS cosntructor" from child class
-            //      because when object of child class is creatd, parameterless constructor of parent class is called automatically.
+            //      because when object of child class is created, parameterless constructor of parent class is called automatically.
 
             //      It is MUST to call parent class parameterized constructor from child class and pass necessary argument.
 

@@ -35,7 +35,7 @@ namespace Multithreading
            switching time if any.
          */
 
-        public static void Main()
+        public static void Main20()
         {
             Stopwatch stopwatch = Stopwatch.StartNew();
             stopwatch = Stopwatch.StartNew();

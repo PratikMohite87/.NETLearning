@@ -15,7 +15,7 @@ namespace Multithreading
 
         static Mutex mutex = new Mutex();
 
-        static void Main9(string[] args)
+        static void Main(string[] args)
         {
             for (int i = 0; i < 5; i++)
             {

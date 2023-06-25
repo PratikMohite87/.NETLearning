@@ -1,7 +1,14 @@
 ﻿using System;
+using System.Buffers.Text;
+using System.Collections;
 using System.Collections.Generic;
+using System.Dynamic;
 using System.Linq;
+using System.Reflection.Metadata;
+using System.Runtime.Intrinsics.X86;
 using System.Text;
+using System.Text.RegularExpressions;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Multithreading
@@ -109,3 +116,60 @@ namespace Multithreading
         }
     }
 }
+
+namespace Multithreading
+{
+    internal class ThreadVSThreadStart
+    {
+        public static void Main21(string[] args)
+        {
+            #region Thread VS ThreadStart VS ParameterizedThreadStart
+
+            // The Thread(ThreadStart) constructor can only be used when the signature of your SomeMethod method matches the ThreadStart delegate.
+            // Conversely, Thread(ParameterizedThreadStart) requires SomeMethod to match the ParameterizedThreadStart delegate.
+            // The signatures are below:
+            //        public delegate void ThreadStart()
+            //        public delegate void ParameterizedThreadStart(Object obj)
+
+            // Concretely, this means that you should use ThreadStart when your method does not take any parameters,
+            // and ParameterizedThreadStart when it takes a single Object parameter.
+            
+            // Threads created with the former should be started by calling Start(), whilst threads created with the latter should have their argument
+            //  specified through Start(Object).
+
+
+            var threadA = new Thread(new ThreadStart(ExecuteA));
+            threadA.Start();
+
+            var threadB = new Thread(new ParameterizedThreadStart(ExecuteB));
+            threadB.Start("abc");
+
+            threadA.Join();
+            threadB.Join();
+        
+            // Finally, you can call the Thread constructors without specifying the ThreadStart or ParameterizedThreadStart delegate.
+            // In this case, the compiler will match your method to the constructor overload based on its signature, performing the cast implicitly.
+
+
+            var threadA1 = new Thread(ExecuteA);   // implicit cast to ThreadStart
+            threadA1.Start();
+
+            var threadB1 = new Thread(ExecuteB);   // implicit cast to ParameterizedThreadStart
+            threadB1.Start("abc");
+
+            #endregion
+        }
+
+        private static void ExecuteA()
+        {
+            Console.WriteLine("Executing parameterless thread!");
+        }
+
+        private static void ExecuteB(Object obj)
+        {
+            Console.WriteLine($"Executing thread with parameter \"{obj}\"!");
+        }
+    }
+}
+
+

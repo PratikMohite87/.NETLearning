@@ -43,7 +43,7 @@ namespace Multithreading
 }
 
 // PERFORMANCE USING Thread Pool V/S Without using Thread Pool.
-// Thread Pool is much faster than without using Thread Pool. i.e creating new thread for each request.
+// Thread Pool is much faster than without using Thread. i.e creating new thread for each request.
 
 namespace Multithreading
 {

@@ -36,7 +36,7 @@ namespace AsynchronousProgramming
             #endregion
 
             #region Creating using StartNew()
-            //Task task = Task.Factory.StartNew(PrintCounter);    // New need to explicitly start, it starts automatically.
+            //Task task = Task.Factory.StartNew(PrintCounter);    // No need to explicitly start, it starts automatically.
             #endregion
 
             #region Creating using Run()

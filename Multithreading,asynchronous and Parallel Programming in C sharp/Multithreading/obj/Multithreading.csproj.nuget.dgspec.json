@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\.NETRevision\\Multithreading,asynchronous and Parallel Programming in C sharp\\Multithreading\\Multithreading.csproj": {}
+    "G:\\.NET Learnings\\Multithreading,asynchronous and Parallel Programming in C sharp\\Multithreading\\Multithreading.csproj": {}
   },
   "projects": {
-    "C:\\.NETRevision\\Multithreading,asynchronous and Parallel Programming in C sharp\\Multithreading\\Multithreading.csproj": {
+    "G:\\.NET Learnings\\Multithreading,asynchronous and Parallel Programming in C sharp\\Multithreading\\Multithreading.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\.NETRevision\\Multithreading,asynchronous and Parallel Programming in C sharp\\Multithreading\\Multithreading.csproj",
+        "projectUniqueName": "G:\\.NET Learnings\\Multithreading,asynchronous and Parallel Programming in C sharp\\Multithreading\\Multithreading.csproj",
         "projectName": "Multithreading",
-        "projectPath": "C:\\.NETRevision\\Multithreading,asynchronous and Parallel Programming in C sharp\\Multithreading\\Multithreading.csproj",
+        "projectPath": "G:\\.NET Learnings\\Multithreading,asynchronous and Parallel Programming in C sharp\\Multithreading\\Multithreading.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\.NETRevision\\Multithreading,asynchronous and Parallel Programming in C sharp\\Multithreading\\obj\\",
+        "outputPath": "G:\\.NET Learnings\\Multithreading,asynchronous and Parallel Programming in C sharp\\Multithreading\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

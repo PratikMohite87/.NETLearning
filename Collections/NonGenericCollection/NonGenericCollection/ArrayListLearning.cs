@@ -36,6 +36,8 @@ namespace NonGenericCollection
             arrayList.Add(4);
             Console.WriteLine(arrayList.Capacity);      // 8
 
+            arrayList.BinarySearch(3);                  // Works on sorted 1-d array. TC = O(log n)
+
             Console.WriteLine("--------------------------------------------------");
 
             ArrayList arrayList2 = new ArrayList(7);    // specifiying initial capacity.

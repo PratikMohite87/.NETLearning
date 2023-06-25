@@ -1,0 +1,15 @@
+G:\.NET Learnings\LinqLearning\Standard_Query_Operators\bin\Debug\net6.0\Standard_Query_Operators.exe
+G:\.NET Learnings\LinqLearning\Standard_Query_Operators\bin\Debug\net6.0\Standard_Query_Operators.deps.json
+G:\.NET Learnings\LinqLearning\Standard_Query_Operators\bin\Debug\net6.0\Standard_Query_Operators.runtimeconfig.json
+G:\.NET Learnings\LinqLearning\Standard_Query_Operators\bin\Debug\net6.0\Standard_Query_Operators.dll
+G:\.NET Learnings\LinqLearning\Standard_Query_Operators\bin\Debug\net6.0\Standard_Query_Operators.pdb
+G:\.NET Learnings\LinqLearning\Standard_Query_Operators\obj\Debug\net6.0\Standard_Query_Operators.csproj.AssemblyReference.cache
+G:\.NET Learnings\LinqLearning\Standard_Query_Operators\obj\Debug\net6.0\Standard_Query_Operators.GeneratedMSBuildEditorConfig.editorconfig
+G:\.NET Learnings\LinqLearning\Standard_Query_Operators\obj\Debug\net6.0\Standard_Query_Operators.AssemblyInfoInputs.cache
+G:\.NET Learnings\LinqLearning\Standard_Query_Operators\obj\Debug\net6.0\Standard_Query_Operators.AssemblyInfo.cs
+G:\.NET Learnings\LinqLearning\Standard_Query_Operators\obj\Debug\net6.0\Standard_Query_Operators.csproj.CoreCompileInputs.cache
+G:\.NET Learnings\LinqLearning\Standard_Query_Operators\obj\Debug\net6.0\Standard_Query_Operators.dll
+G:\.NET Learnings\LinqLearning\Standard_Query_Operators\obj\Debug\net6.0\refint\Standard_Query_Operators.dll
+G:\.NET Learnings\LinqLearning\Standard_Query_Operators\obj\Debug\net6.0\Standard_Query_Operators.pdb
+G:\.NET Learnings\LinqLearning\Standard_Query_Operators\obj\Debug\net6.0\Standard_Query_Operators.genruntimeconfig.cache
+G:\.NET Learnings\LinqLearning\Standard_Query_Operators\obj\Debug\net6.0\ref\Standard_Query_Operators.dll

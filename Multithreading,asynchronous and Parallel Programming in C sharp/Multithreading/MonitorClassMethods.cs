@@ -48,7 +48,7 @@ namespace Multithreading
 
             for(int i = 0; i < 5; i++)
             {
-                Monitor.Pulse(_lock);       // Will notify other thread who is waiting to stat execution.
+                Monitor.Pulse(_lock);       // Will notify other thread who is waiting to start execution.
 
                 Console.WriteLine("Write Thread working.." + i);
                 Console.WriteLine("Write Thread completed.." + i);
