@@ -17,7 +17,11 @@ public class ExThread
     // Non-Static method
     public void mythread1()
     {
-        Console.WriteLine("2nd thread is Working..");
+        for (int x = 0; x < 4; x++)
+        {
+            Console.WriteLine("Thread 2" + x);
+            Thread.Sleep(5000);
+        }
     }
 }
 
@@ -25,7 +29,7 @@ public class ExThread
 public class ThreadExample
 {
     // Main method
-    public static void Main4()
+    public static void Main()
     {
         // Creating instance for
         // mythread() method
@@ -35,7 +39,7 @@ public class ThreadExample
         Thread thr1 = new Thread(new ThreadStart(obj.mythread));
         Thread thr2 = new Thread(new ThreadStart(obj.mythread1));
         thr1.Start();
-
+       
         Console.WriteLine(thr1.IsAlive);
 
         // Join thread
@@ -46,9 +50,9 @@ public class ThreadExample
 
         // This method blocks the calling thread until the thread represented by this instance terminates or the specified time elapses while continuing to perform standard COM and SendMessage pumping.
         // public bool Join(int millisecondsTimeout);
-        thr1.Join(2000); 
-        
+        // thr1.Join(2000); 
         thr2.Start();
+
 
     }
 }

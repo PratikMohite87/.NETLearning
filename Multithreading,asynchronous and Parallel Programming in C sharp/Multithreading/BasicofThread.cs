@@ -8,11 +8,11 @@
  
  Threading:
 
-    Under OS we have Process that is running our app. Each ruuning app. has its process behind it.
-    To run code of app. Process makes use of THREAD.
+    Under OS we have Process that is running our app. Each runing app has its process behind it to run code of app. 
+    Process makes use of THREAD.
     
     Thread is a light weight Process.
-    A Process has atleast 1 Thread wgich is commonly called as Main Thread which executes app. code.
+    A Process has atleast 1 Thread which is commonly called as Main Thread which executes app code.
     
     Single Process can have multiple Threads.
  */
