@@ -1,0 +1,15 @@
+G:\.NET Learnings\FileIO\TextWriter_Reader\bin\Debug\net6.0\TextWriter_Reader.exe
+G:\.NET Learnings\FileIO\TextWriter_Reader\bin\Debug\net6.0\TextWriter_Reader.deps.json
+G:\.NET Learnings\FileIO\TextWriter_Reader\bin\Debug\net6.0\TextWriter_Reader.runtimeconfig.json
+G:\.NET Learnings\FileIO\TextWriter_Reader\bin\Debug\net6.0\TextWriter_Reader.dll
+G:\.NET Learnings\FileIO\TextWriter_Reader\bin\Debug\net6.0\TextWriter_Reader.pdb
+G:\.NET Learnings\FileIO\TextWriter_Reader\obj\Debug\net6.0\TextWriter_Reader.csproj.AssemblyReference.cache
+G:\.NET Learnings\FileIO\TextWriter_Reader\obj\Debug\net6.0\TextWriter_Reader.GeneratedMSBuildEditorConfig.editorconfig
+G:\.NET Learnings\FileIO\TextWriter_Reader\obj\Debug\net6.0\TextWriter_Reader.AssemblyInfoInputs.cache
+G:\.NET Learnings\FileIO\TextWriter_Reader\obj\Debug\net6.0\TextWriter_Reader.AssemblyInfo.cs
+G:\.NET Learnings\FileIO\TextWriter_Reader\obj\Debug\net6.0\TextWriter_Reader.csproj.CoreCompileInputs.cache
+G:\.NET Learnings\FileIO\TextWriter_Reader\obj\Debug\net6.0\TextWriter_Reader.dll
+G:\.NET Learnings\FileIO\TextWriter_Reader\obj\Debug\net6.0\refint\TextWriter_Reader.dll
+G:\.NET Learnings\FileIO\TextWriter_Reader\obj\Debug\net6.0\TextWriter_Reader.pdb
+G:\.NET Learnings\FileIO\TextWriter_Reader\obj\Debug\net6.0\TextWriter_Reader.genruntimeconfig.cache
+G:\.NET Learnings\FileIO\TextWriter_Reader\obj\Debug\net6.0\ref\TextWriter_Reader.dll

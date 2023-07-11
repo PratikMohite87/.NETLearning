@@ -1,0 +1,15 @@
+G:\.NET Learnings\FileIO\StreamWriter_Reader\bin\Debug\net6.0\StreamWriter_Reader.exe
+G:\.NET Learnings\FileIO\StreamWriter_Reader\bin\Debug\net6.0\StreamWriter_Reader.deps.json
+G:\.NET Learnings\FileIO\StreamWriter_Reader\bin\Debug\net6.0\StreamWriter_Reader.runtimeconfig.json
+G:\.NET Learnings\FileIO\StreamWriter_Reader\bin\Debug\net6.0\StreamWriter_Reader.dll
+G:\.NET Learnings\FileIO\StreamWriter_Reader\bin\Debug\net6.0\StreamWriter_Reader.pdb
+G:\.NET Learnings\FileIO\StreamWriter_Reader\obj\Debug\net6.0\StreamWriter_Reader.csproj.AssemblyReference.cache
+G:\.NET Learnings\FileIO\StreamWriter_Reader\obj\Debug\net6.0\StreamWriter_Reader.GeneratedMSBuildEditorConfig.editorconfig
+G:\.NET Learnings\FileIO\StreamWriter_Reader\obj\Debug\net6.0\StreamWriter_Reader.AssemblyInfoInputs.cache
+G:\.NET Learnings\FileIO\StreamWriter_Reader\obj\Debug\net6.0\StreamWriter_Reader.AssemblyInfo.cs
+G:\.NET Learnings\FileIO\StreamWriter_Reader\obj\Debug\net6.0\StreamWriter_Reader.csproj.CoreCompileInputs.cache
+G:\.NET Learnings\FileIO\StreamWriter_Reader\obj\Debug\net6.0\StreamWriter_Reader.dll
+G:\.NET Learnings\FileIO\StreamWriter_Reader\obj\Debug\net6.0\refint\StreamWriter_Reader.dll
+G:\.NET Learnings\FileIO\StreamWriter_Reader\obj\Debug\net6.0\StreamWriter_Reader.pdb
+G:\.NET Learnings\FileIO\StreamWriter_Reader\obj\Debug\net6.0\StreamWriter_Reader.genruntimeconfig.cache
+G:\.NET Learnings\FileIO\StreamWriter_Reader\obj\Debug\net6.0\ref\StreamWriter_Reader.dll

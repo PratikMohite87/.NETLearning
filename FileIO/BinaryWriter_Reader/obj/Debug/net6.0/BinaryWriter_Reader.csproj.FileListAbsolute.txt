@@ -1,0 +1,15 @@
+G:\.NET Learnings\FileIO\BinaryWriter_Reader\bin\Debug\net6.0\BinaryWriter_Reader.exe
+G:\.NET Learnings\FileIO\BinaryWriter_Reader\bin\Debug\net6.0\BinaryWriter_Reader.deps.json
+G:\.NET Learnings\FileIO\BinaryWriter_Reader\bin\Debug\net6.0\BinaryWriter_Reader.runtimeconfig.json
+G:\.NET Learnings\FileIO\BinaryWriter_Reader\bin\Debug\net6.0\BinaryWriter_Reader.dll
+G:\.NET Learnings\FileIO\BinaryWriter_Reader\bin\Debug\net6.0\BinaryWriter_Reader.pdb
+G:\.NET Learnings\FileIO\BinaryWriter_Reader\obj\Debug\net6.0\BinaryWriter_Reader.csproj.AssemblyReference.cache
+G:\.NET Learnings\FileIO\BinaryWriter_Reader\obj\Debug\net6.0\BinaryWriter_Reader.GeneratedMSBuildEditorConfig.editorconfig
+G:\.NET Learnings\FileIO\BinaryWriter_Reader\obj\Debug\net6.0\BinaryWriter_Reader.AssemblyInfoInputs.cache
+G:\.NET Learnings\FileIO\BinaryWriter_Reader\obj\Debug\net6.0\BinaryWriter_Reader.AssemblyInfo.cs
+G:\.NET Learnings\FileIO\BinaryWriter_Reader\obj\Debug\net6.0\BinaryWriter_Reader.csproj.CoreCompileInputs.cache
+G:\.NET Learnings\FileIO\BinaryWriter_Reader\obj\Debug\net6.0\BinaryWriter_Reader.dll
+G:\.NET Learnings\FileIO\BinaryWriter_Reader\obj\Debug\net6.0\refint\BinaryWriter_Reader.dll
+G:\.NET Learnings\FileIO\BinaryWriter_Reader\obj\Debug\net6.0\BinaryWriter_Reader.pdb
+G:\.NET Learnings\FileIO\BinaryWriter_Reader\obj\Debug\net6.0\BinaryWriter_Reader.genruntimeconfig.cache
+G:\.NET Learnings\FileIO\BinaryWriter_Reader\obj\Debug\net6.0\ref\BinaryWriter_Reader.dll

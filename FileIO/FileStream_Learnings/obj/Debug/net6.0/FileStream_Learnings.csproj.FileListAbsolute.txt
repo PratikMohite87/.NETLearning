@@ -1,0 +1,15 @@
+G:\.NET Learnings\FileIO\FileStream_Learnings\bin\Debug\net6.0\FileStream_Learnings.exe
+G:\.NET Learnings\FileIO\FileStream_Learnings\bin\Debug\net6.0\FileStream_Learnings.deps.json
+G:\.NET Learnings\FileIO\FileStream_Learnings\bin\Debug\net6.0\FileStream_Learnings.runtimeconfig.json
+G:\.NET Learnings\FileIO\FileStream_Learnings\bin\Debug\net6.0\FileStream_Learnings.dll
+G:\.NET Learnings\FileIO\FileStream_Learnings\bin\Debug\net6.0\FileStream_Learnings.pdb
+G:\.NET Learnings\FileIO\FileStream_Learnings\obj\Debug\net6.0\FileStream_Learnings.csproj.AssemblyReference.cache
+G:\.NET Learnings\FileIO\FileStream_Learnings\obj\Debug\net6.0\FileStream_Learnings.GeneratedMSBuildEditorConfig.editorconfig
+G:\.NET Learnings\FileIO\FileStream_Learnings\obj\Debug\net6.0\FileStream_Learnings.AssemblyInfoInputs.cache
+G:\.NET Learnings\FileIO\FileStream_Learnings\obj\Debug\net6.0\FileStream_Learnings.AssemblyInfo.cs
+G:\.NET Learnings\FileIO\FileStream_Learnings\obj\Debug\net6.0\FileStream_Learnings.csproj.CoreCompileInputs.cache
+G:\.NET Learnings\FileIO\FileStream_Learnings\obj\Debug\net6.0\FileStream_Learnings.dll
+G:\.NET Learnings\FileIO\FileStream_Learnings\obj\Debug\net6.0\refint\FileStream_Learnings.dll
+G:\.NET Learnings\FileIO\FileStream_Learnings\obj\Debug\net6.0\FileStream_Learnings.pdb
+G:\.NET Learnings\FileIO\FileStream_Learnings\obj\Debug\net6.0\FileStream_Learnings.genruntimeconfig.cache
+G:\.NET Learnings\FileIO\FileStream_Learnings\obj\Debug\net6.0\ref\FileStream_Learnings.dll
