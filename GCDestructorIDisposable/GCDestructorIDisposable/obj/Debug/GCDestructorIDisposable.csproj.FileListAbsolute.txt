@@ -6,3 +6,11 @@ G:\.NETRevision\GCDestructorIDisposable\GCDestructorIDisposable\obj\Debug\GCDest
 G:\.NETRevision\GCDestructorIDisposable\GCDestructorIDisposable\obj\Debug\GCDestructorIDisposable.csproj.CoreCompileInputs.cache
 G:\.NETRevision\GCDestructorIDisposable\GCDestructorIDisposable\obj\Debug\GCDestructorIDisposable.exe
 G:\.NETRevision\GCDestructorIDisposable\GCDestructorIDisposable\obj\Debug\GCDestructorIDisposable.pdb
+G:\.NET Learnings\GCDestructorIDisposable\GCDestructorIDisposable\bin\Debug\GCDestructorIDisposable.exe.config
+G:\.NET Learnings\GCDestructorIDisposable\GCDestructorIDisposable\bin\Debug\GCDestructorIDisposable.exe
+G:\.NET Learnings\GCDestructorIDisposable\GCDestructorIDisposable\bin\Debug\GCDestructorIDisposable.pdb
+G:\.NET Learnings\GCDestructorIDisposable\GCDestructorIDisposable\obj\Debug\GCDestructorIDisposable.csproj.AssemblyReference.cache
+G:\.NET Learnings\GCDestructorIDisposable\GCDestructorIDisposable\obj\Debug\GCDestructorIDisposable.csproj.SuggestedBindingRedirects.cache
+G:\.NET Learnings\GCDestructorIDisposable\GCDestructorIDisposable\obj\Debug\GCDestructorIDisposable.csproj.CoreCompileInputs.cache
+G:\.NET Learnings\GCDestructorIDisposable\GCDestructorIDisposable\obj\Debug\GCDestructorIDisposable.exe
+G:\.NET Learnings\GCDestructorIDisposable\GCDestructorIDisposable\obj\Debug\GCDestructorIDisposable.pdb
